@@ -1,0 +1,83 @@
+.card {
+  color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 260px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+.card-image {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.card-content {
+  padding-top: 16px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.card-title {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.card-price {
+  background-color: #BEE3CC;
+  color: #000;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.75rem;
+}
+
+.popular-tag {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  background-color: #F6C768;
+  color: #000;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.card-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+  gap: 8px;
+}
+
+.rating-info {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.rating {
+  font-size: 0.875rem;
+}
+
+.votes {
+  font-size: 0.875rem;
+  color: #6F757C;
+}
+
+.availability {
+  color: #FF0000;
+  padding: 4px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+}

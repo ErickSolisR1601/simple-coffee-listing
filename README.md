@@ -32,6 +32,15 @@ In this project, I developed a cafe listing application using **React**. The mai
 - Git and GitHub for version control.
 - Visual Studio Code as code editor.
 
+## 📌 Learnings
+
+In this project, I reinforced my experience in:
+
+- Creating reusable components in React.
+- Handling dynamic data coming from a JSON file or API.
+- Conditional rendering and interactive data filtering.
+- Best practices for project structuring and responsive design.
+
 ## 📧 Contact
 
 - **Email:** [dev.ericksr.16@gmail.com](mailto:dev.ericksr.16@gmail.com)  
